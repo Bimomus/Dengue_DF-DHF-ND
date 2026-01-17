@@ -1,5 +1,9 @@
 # Study Case_OmicsLite_Week 3
-## Vaccine HIV
+
+## `Concept Workflow`
+<img width="1341" height="475" alt="image" src="https://github.com/user-attachments/assets/a40e1c3b-9c56-46bb-bd59-5fdab9a98130" />
+
+## Topic Week 3: Vaccine HIV
 ### Tools: GEO, GEO2R, R (R/Rstudio), GO (g:profiler), KEGG 
 This is a project based learning (PBL) in OmicsLite about exploration explanation from one journal about HIV case in patient DF, DHF and ND
 ### Notes: DF = Dengue Fever; DHF = Dengue Hemorrhagic Fever; ND: Non-Dengue (normal)
