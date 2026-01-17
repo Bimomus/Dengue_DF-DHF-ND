@@ -10,7 +10,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 
 ## Step-by-Step GEO / GEO2R
 1. Check the journal, we gonna explor (today is about HIV Vaccine)
-2. Check the access for GEO2R (sometimes few datasets can't be explor the dataset public, so we can't running in the R) [Link: <https://www.ncbi.nlm.nih.gov/geo/geo2r/>]
+2. Check the access for GEO2R (sometimes few datasets can't be explor the dataset public, so we can't running in the R) [Link GEO2R](<https://www.ncbi.nlm.nih.gov/geo/geo2r/>)
 3. After that, check dataset (GSE18090), go to the website GEO2R analysis
 4. In GEO2R analysis website, we can filter rows and then naming, DF and DHF as a "Patient" and ND as a "Normal"
 5. Check the option analysis in taskbar (in below)
@@ -25,7 +25,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 
 ## Step-by-Step GO (Gene Ontology)
 1. Visit the GO (website g:Profiler or DAVID)
-[Link g:Profiler : <https://biit.cs.ut.ee/gprofiler/gost>]
+[Link g:Profiler](<https://biit.cs.ut.ee/gprofiler/gost>)
 2. Insert the list gene after filtering and make vertical data (form ChatGPT)
 3. Run the analysis
 4. Visit the GO-BP, GO-MP, GO-CC. Find the  "Innate immmune response", "Inflammatory response", "Response to virus", "Apoptotic process" etc.
@@ -33,7 +33,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 
 ## Step-by-Step KEGG Pathway
 1. Identification pathway the result from enrichment.
-2. Visit the KEGG Mapper [Link KEGG Mapper : <https://www.genome.jp/kegg/mapper/search.html>] (Search organism _Homo sapiens_)
+2. Visit the KEGG Mapper [Link KEGG Mapper](<https://www.genome.jp/kegg/mapper/search.html>) (Search organism _Homo sapiens_)
 3. Insert the DEGs (one by one), such as at the first insert downregulated DEG then analysis, after that insert upregulated DEG
 4. Analysis the output ( “Toll-like receptor signaling pathway – 5 genes hit”, “Cytokine-cytokine receptor interaction – 7 genes hit”, “Apoptosis – 3️ genes hit”), combine with the results from GO.
 
