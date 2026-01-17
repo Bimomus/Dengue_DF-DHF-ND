@@ -2,7 +2,7 @@
 ## Vaccine HIV
 ### Tools: GEO, GEO2R, R (R/Rstudio), GO (g:profiler), KEGG 
 This is a project based learning (PBL) in OmicsLite about exploration explanation from one journal about HIV case in patient DF, DHF and ND
-###Notes: DF = Dengue Fever; DHF = Dengue Hemorrhagic Fever; ND: Non-Dengue (normal)
+### Notes: DF = Dengue Fever; DHF = Dengue Hemorrhagic Fever; ND: Non-Dengue (normal)
 
 ## Step-by-Step GEO / GEO2R
 1. Check the journal, we gonna explor (today about HIV Vaccine)
@@ -11,7 +11,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 4. In GEO2R analysis website, we can filter rows and then naming, DF and DHF as a "Patient" and ND as a "Normal"
 5. Check the option analysis in taskbar (in below)
 6. Choose the "Options", Usually in deafult have choosed the options. But, apply "Submitter supplied" in category platform (Because NCBI generated maybe there are some changes in datasets) and choose "yes" to apply limma.
-(<img width="1764" height="541" alt="image" src="https://github.com/user-attachments/assets/031a9105-07a1-46ad-94bb-e399d739c3ff" />)
+<img width="1764" height="541" alt="image" src="https://github.com/user-attachments/assets/031a9105-07a1-46ad-94bb-e399d739c3ff" />
 7. Running data ("Reanalyze")
 8. then, you can choose better visualizations, such as heatmap plot and Venn diagram, for DEG (Differential Expression Gene).
 9. Choose the "Download the table", the output will become "tsv".
