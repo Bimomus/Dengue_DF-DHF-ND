@@ -10,7 +10,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 
 ## Step-by-Step GEO / GEO2R
 1. Check the journal, we gonna explor (today about HIV Vaccine)
-2. Check the access for GEO2R (sometimes few datasets can't be explor the dataset public, so we can't running in the R)
+2. Check the access for GEO2R (sometimes few datasets can't be explor the dataset public, so we can't running in the R) [Link: <https://www.ncbi.nlm.nih.gov/geo/geo2r/>]
 3. After that, check dataset (GSE18090), go to the website GEO2R analysis
 4. In GEO2R analysis website, we can filter rows and then naming, DF and DHF as a "Patient" and ND as a "Normal"
 5. Check the option analysis in taskbar (in below)
