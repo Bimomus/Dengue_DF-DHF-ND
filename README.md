@@ -9,7 +9,7 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 ### Notes: DF = Dengue Fever; DHF = Dengue Hemorrhagic Fever; ND: Non-Dengue (normal)
 
 ## Step-by-Step GEO / GEO2R
-1. Check the journal, we gonna explor (today about HIV Vaccine)
+1. Check the journal, we gonna explor (today is about HIV Vaccine)
 2. Check the access for GEO2R (sometimes few datasets can't be explor the dataset public, so we can't running in the R) [Link: <https://www.ncbi.nlm.nih.gov/geo/geo2r/>]
 3. After that, check dataset (GSE18090), go to the website GEO2R analysis
 4. In GEO2R analysis website, we can filter rows and then naming, DF and DHF as a "Patient" and ND as a "Normal"
@@ -26,7 +26,6 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 ## Step-by-Step GO (Gene Ontology)
 1. Visit the GO (website g:Profiler or DAVID)
 [Link g:Profiler : <https://biit.cs.ut.ee/gprofiler/gost>]
-
 2. Insert the list gene after filtering and make vertical data (form ChatGPT)
 3. Run the analysis
 4. Visit the GO-BP, GO-MP, GO-CC. Find the  "Innate immmune response", "Inflammatory response", "Response to virus", "Apoptotic process" etc.
