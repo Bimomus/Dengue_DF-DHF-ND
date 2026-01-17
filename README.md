@@ -12,8 +12,9 @@ This is a project based learning (PBL) in OmicsLite about exploration explanatio
 5. Check the option analysis in taskbar (in below)
 6. Choose the "Options", Usually in deafult have choosed the options. But, apply "Submitter supplied" in category platform (Because NCBI generated maybe there are some changes in datasets) and choose "yes" to apply limma.
 <img width="1764" height="541" alt="image" src="https://github.com/user-attachments/assets/031a9105-07a1-46ad-94bb-e399d739c3ff" />
+
 7. Running data ("Reanalyze")
-8. then, you can choose better visualizations, such as heatmap plot and Venn diagram, for DEG (Differential Expression Gene)
+8. Then, you can choose better visualizations, such as heatmap plot and Venn diagram, for DEG (Differential Expression Gene)
 9. Choose the "Download the table", the output will become "tsv"
 10. As a challenge, you can convert the extension data .tsv become .csv, then convert from data in Ms.Excel or you can use SQL database. But in easier way, you can use the ChatGPT, for filtering the upregulated and downregulated 20 sample gene in datasets (with prompt)
 11. After getting, the 20 downregulated DEGs and 20 upregulated DEGs, you can copy the "Symbol Gene". In usually, the symbol genes have two or more symbol genes with limiter "//", you can use the ChatGPT with prompt "Please, filtering the symbol "//" in the data 20 DEGs downregulated and upregulated, after that, make the data into vertical"
